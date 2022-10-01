@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Rudi
+
+- 🖥️ Working as Software Engineer
 
 <!--
 **h4rtomo/h4rtomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
